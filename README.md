@@ -7,5 +7,5 @@
 5. Predict recipe star-ratings<br>
   -- Gradient Boosted Tree for Regression
 7. Identify key parameters contributing to a recipe's star-rating<br>
-  -- explore Lasso, Ridge, Linear Regression
+  -- Explore Lasso, Ridge, Linear Regression
 9. Unsupervised learning: Explore recipe clustering based on subsets of features
