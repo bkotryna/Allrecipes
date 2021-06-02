@@ -1,5 +1,9 @@
 # Allrecipes
 
+<br><br>
+Large-scale analysis of cooking recipes, using world's most popular recipe resource / social networking website allrecipes.com<br>
+Workflow:<br><br>
+
 1. Scrape data from the web<br>
 2. Parse webpage content<br>
 3. Populate a pandas dataframe with recipe parameters<br>
